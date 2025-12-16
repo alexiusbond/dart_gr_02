@@ -121,3 +121,5 @@ void scopeExample(int parameterVariable) {
   // print('Блокочная переменная вне блока if: $blockVariable'); // Ошибка: переменная не определена в этой области видимости
   print('Глобальная переменная: $globalVariable');
 }
+
+// Конец
